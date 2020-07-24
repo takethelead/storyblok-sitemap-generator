@@ -1,0 +1,12 @@
+{
+  "name": "storyblok-sitemap-generator",
+  "version": "1.0.3",
+  "description": "Simpel sitemap XML generator for storyblok websites. Can be used as a microservice to trigger after publish/unpublish events on Storyblok",
+  "author": "Glenn Billiau | Take The Lead .be",
+  "license": "ISC",
+  "repository": "https://bitbucket.org/takethelead/storyblok-sitemapxml-generator.git",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "xml": "^1.0.1"
+  }
+}
