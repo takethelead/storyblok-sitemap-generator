@@ -1,0 +1,1 @@
+# storyblok-sitemap-generator
